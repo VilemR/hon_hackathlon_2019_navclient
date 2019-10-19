@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Navigator</string>
+    <string name="title_activity_map_layout">MapLayout</string>
+    <string name="layoutmap">LayoutMap</string>
+
+    <string name="app_name_scan">Location Scanner</string>
+    <string name="app_name_map">Your position:</string>
+    <string name="app_name_main">Navigator</string>
+    <string name="title_activity_passport">PassportActivity</string>
+    <string name="scan_qr_token">Scan QR token</string>
+
+</resources>
